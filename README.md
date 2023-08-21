@@ -1,8 +1,8 @@
 # Slackmojis
 
 ### Prerequisites
-[JQ](https://stedolan.github.io/jq/)
-[Slack Emoji Tools](https://chrome.google.com/webstore/detail/slack-emoji-tools/anchoacphlfbdomdlomnbbfhcmcdmjej)
+- [JQ](https://stedolan.github.io/jq/)
+- [Slack Emoji Tools](https://chrome.google.com/webstore/detail/slack-emoji-tools/anchoacphlfbdomdlomnbbfhcmcdmjej)
  
 ### Extracting Emojis
 
